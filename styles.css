@@ -626,6 +626,15 @@
     }
 }
 
+/*this was added*/
+@media screen and (max-width: 1300px) {
+
+  }
+  
+@media screen and (max-width: 768px) {
+    
+  }
+
 
 /* Footer CSS*/
 .footer__container {
